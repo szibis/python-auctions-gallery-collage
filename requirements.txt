@@ -1,0 +1,7 @@
+numpy
+pillow
+pyxpm
+python-xmp-toolkit
+iptcinfo
+filelock
+filedepot
