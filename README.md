@@ -1,2 +1,3 @@
 # python-auctions-gallery-collage
-This is script for generating gallery collage from specific metadata in images. Creates to generate sites for auctions.
+
+Project originally based on https://github.com/drduh/python-html-gallery but now left only few functions and some static configuration options.
